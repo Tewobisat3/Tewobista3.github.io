@@ -1,0 +1,23 @@
+h1{
+    color: green;
+    text-align: center;
+}
+h2{
+    color:  brown;
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+    height: auto;
+}
+p{
+        font-size: 20px;
+        width: 1000px;
+}
+body{
+    background-image:url("https://img.freepik.com/free-vector/cute-rainbow-frame-vector-beige-background-cute-hand-drawn-style_53876-126112.jpg");
+    padding: 37px 152px;
+}

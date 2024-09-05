@@ -1,0 +1,25 @@
+h1{
+    color: green;
+    text-align: center;
+}
+h2{
+    color:  brown;
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+    height: auto;
+}
+h3{
+    color: red;
+}
+p{
+    font-size: 20px;
+    width: 1000px;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1391170911/vector/mint-tiger-stripes-on-a-seamless-pattern.jpg?s=612x612&w=0&k=20&c=pQyUYha_pTOF91xy8ALZwZdXOINwXYlBjcf01w6tsS0=");
+}
